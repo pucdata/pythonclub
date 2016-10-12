@@ -4,5 +4,5 @@ Date: 12-October-2016
 
 ## Tutorials
 
-- **Astropy:** X will introduce the Astropy package and will explain the most important functions.
+- **Matplotlib:** Alejandro Sazo will give talk about doing 3D plots and creating animations with matplotlib.
 - **APLpy:** Paul Eigenthaler will introduce the APLpy package and will explain the most important functions.
