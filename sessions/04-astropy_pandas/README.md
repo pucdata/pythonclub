@@ -4,5 +4,5 @@ Date: 26-October-2016
 
 ## Tutorials
 
+- **Git and Github:** Roberto Muñoz will introduce the usage of Git and Github.
 - **Astropy:** Josh Tan will introduce the Astropy package and will explain the most important functions.
-- **Pandas:** Roberto Muñoz will introduce the Pandas package and will explain the most important functions.
